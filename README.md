@@ -7,4 +7,4 @@ the first link rotates around the z-axis expressed in the world frame, the secon
                                 
 Our task: to pick two sphere_shaped objects, from different positions, and place them in the a desired position(here the box).
 
-The robot is built depending on simscape multibody toolbox, and Simscape Multibody Contact Forces Library
+NOTE: The robot is built depending on simscape multibody toolbox, and Simscape Multibody Contact Forces Library
